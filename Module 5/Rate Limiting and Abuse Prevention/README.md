@@ -99,3 +99,4 @@ All tests passed! ✓
 1. Implement `src/middleware/rateLimiter.js` (including the Redis comment).
 2. `npm test` → `Results: 5 passed, 0 failed`.
 3. Open a PR explaining why auth routes get a stricter limit and why the in-memory store fails across instances.
+5 test cases passed
